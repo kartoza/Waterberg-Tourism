@@ -1,6 +1,6 @@
 # Waterberg Cartography Project
 
-This repository contains the working files for the **Waterberg Cartography project**, a collaboration between Kartoza and Waterberg Tourism.
+This repository contains the working files for the Waterberg Cartography project, a collaboration between Kartoza and Waterberg Tourism.
 
 ## Overview
 
